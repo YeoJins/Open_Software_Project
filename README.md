@@ -19,3 +19,6 @@ target_link_libraries(Cproject ${OpenCV_LIBS}) // 프로젝트 이름
 make
 ./Cproject
 ```
+***
+
+폴더 구조
