@@ -20,17 +20,3 @@ make
 ./Cproject
 ```
 ***
-
-폴더 구조
-
-Open_Software_Project
-├── README.md
-├── Week1
-│   └── readme.md
-│   └── week1.cpp
-├── Week2
-│   └── Readme.md
-│   └── week2.cpp
-└── Week3
-    └── Readme.md
-    └── week3.cpp
